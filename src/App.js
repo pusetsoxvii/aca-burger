@@ -78,6 +78,10 @@ function Lettuce() {
 
 // Main burger app
 function App() {
+<<<<<<< HEAD
+=======
+  // our customer can choose fillings
+>>>>>>> 79aa68b0658f1846d0c8e0280f76a3f48c8e6416
   const [showTomato, setShowTomato] = useState(true);
   const [showMeat, setShowMeat] = useState(true);
   const [showLettuce, setShowLettuce] = useState(true);
