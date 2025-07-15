@@ -74,7 +74,7 @@ function BaseBread() {
 }
 
 function App() {
-  // For Exercise 2, let users pick fillings:
+  // our customer can choose fillings
   const [showTomato, setShowTomato] = useState(true);
   const [showMeat, setShowMeat] = useState(true);
   const [showLettuce, setShowLettuce] = useState(true);
