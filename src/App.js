@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 
-// Shared styles
 const breadStyle = {
   background: "#FAA61A",
   height: 60,
